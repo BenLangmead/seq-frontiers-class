@@ -62,8 +62,9 @@ If you are taking my class and you have any trouble accessing these resources, p
         * BWA-MEM: [Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM](http://arxiv.org/abs/1303.3997) by Li
         * GEM: [The GEM mapper: fast, accurate and versatile alignment by filtration](http://www.nature.com/nmeth/journal/v9/n12/abs/nmeth.2221.html) by Marco-Sola et al
 * Compression
-    * CRAM
-    * Quip
+    * CRAM: [Efficient storage of high throughput DNA sequencing data using reference-based compression](http://nar.oxfordjournals.org/content/40/22/e171.short) by Hsi-Yang Fritz et al
+    * Quip: [Compression of next-generation sequencing reads aided by highly efficient de novo assembly](http://nar.oxfordjournals.org/content/40/22/e171.short) by Jones et al
+    * [Adaptive reference-free compression of sequence quality scores](http://arxiv.org/abs/1305.0159) by Janin, Rosone, Cox
 * Sketching and streaming
     * eXpress: [Streaming fragment assembly for real-time analysis of sequencing experiments](http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html) by Roberts, Pachter (also listed above)
     * [Similarity Estimation Techniques from Rounding Algorithms](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDAQFjAA&url=http%3A%2F%2Fwww.cs.princeton.edu%2Fcourses%2Farchive%2Fspring04%2Fcos598B%2Fbib%2FCharikarEstim.pdf&ei=BOfGUsqtEbawsASgyYCADg&usg=AFQjCNGhjQeAdc2rz3unSSih-ipPDVDZtw&bvm=bv.58187178,d.cWc) by Charikar
@@ -74,4 +75,7 @@ If you are taking my class and you have any trouble accessing these resources, p
     * Scalable indexing
         * [Rapid Parallel Genome Indexing with MapReduce](http://dl.acm.org/citation.cfm?id=1996104) by Menon, Bhat, Schatz
     * Scalable pipelines
+        * [Searching for SNPs with cloud computing](http://genomebiology.com/2009/10/11/R134) by Langmead et al
+        * [Cloud-scale RNA-sequencing differential expression analysis with Myrna](http://genomebiology.com/2010/11/8/R83) by Langmead, Hansen, Leek
+        * [ADAM: Genomics Formats and Processing Patterns for Cloud Scale Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-207.html) by Massie et al
         * [Fragment assignment in the cloud with eXpress-D](http://www.biomedcentral.com/1471-2105/14/358/abstract) by Roberts, Feng, Pachter (also listed below)
