@@ -37,23 +37,27 @@ If you are taking my class and you have any trouble accessing these resources, p
     * PSGInfer: [Inference of alternative splicing from RNA-Seq data with probabilistic splice graphs](http://bioinformatics.oxfordjournals.org/content/29/18/2300.full.html) by LeGault, Dewey
 
 * Scalable methods
-    * eXpress: [Streaming fragment assembly for real-time analysis of sequencing experiments](http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html) by Roberts, Pachter
+    * eXpress: [Streaming fragment assembly for real-time analysis of sequencing experiments](http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html) by Roberts, Pachter (also listed below)
+    * [Fragment assignment in the cloud with eXpress-D](http://www.biomedcentral.com/1471-2105/14/358/abstract) by Roberts, Feng, Pachter (also listed below)
+    * [Sailfish: Alignment-free Isoform Quantification from RNA-seq Reads using Lightweight Algorithms](http://arxiv.org/abs/1308.3700) by Patro, Mount, Kingsford
 
 ### Big data methods for sequencing data analysis
 
 * Indexing
-    * NAR review
-    * Navarro review
+    * Surveys
+        * [Prospects and limitations of full-text index structures in genome analysis](http://nar.oxfordjournals.org/content/40/15/6993) by Vyverman et al
+        * [Indexing Methods for Approximate String Matching](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.11.5629&rep=rep1&type=pdf) by Navarro et al
     * Bowtie
     * BWA
 * Compression
     * CRAM
     * Quip
 * Sketching and streaming
-    * eXpress
+    * eXpress: [Streaming fragment assembly for real-time analysis of sequencing experiments](http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html) by Roberts, Pachter (also listed above)
 * Scalable computing
     * Scalable alignment
-        * CloudBurst
+        * [CloudBurst: highly sensitive read mapping with MapReduce](http://bioinformatics.oxfordjournals.org/content/25/11/1363.short) by Schatz
     * Scalable indexing
-        * Menon et al
+        * [Rapid Parallel Genome Indexing with MapReduce](http://dl.acm.org/citation.cfm?id=1996104) by Menon, Bhat, Schatz
     * Scalable pipelines
+        * [Fragment assignment in the cloud with eXpress-D](http://www.biomedcentral.com/1471-2105/14/358/abstract) by Roberts, Feng, Pachter (also listed below)
