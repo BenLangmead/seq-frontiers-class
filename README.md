@@ -54,6 +54,7 @@ If you are taking my class and you have any trouble accessing these resources, p
         * FM index: [Opportunistic data structures with applications](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=892127) by Ferragina, Manzini
     * Sequencing read alignment tools that use the Suffix Array
         * Segemehl: [Fast Mapping of Short Sequences with Mismatches, Insertions and Deletions Using Index Structures](http://dx.plos.org/10.1371/journal.pcbi.1000502) by Hoffmann et al
+        * [A practical algorithm for finding maximal exact matches in large sequence datasets using sparse suffix arrays](http://bioinformatics.oxfordjournals.org/content/25/13/1609.short) by Khan et al
     * Sequencing read alignment tools that use the FM Index
         * Bowtie: [Ultrafast and memory-efficient alignment of short DNA sequences to the human genome](http://genomebiology.com/2009/10/3/R25) by Langmead et al
         * Bowtie 2: [Fast gapped-read alignment with Bowtie 2](http://www.nature.com/nmeth/journal/v9/n4/full/nmeth.1923.html) by Langmead, Salzberg
@@ -61,10 +62,16 @@ If you are taking my class and you have any trouble accessing these resources, p
         * BWA-SW: [Fast and accurate long-read alignment with Burrows–Wheeler transform](http://bioinformatics.oxfordjournals.org/content/26/5/589.short) by Li, Durbin
         * BWA-MEM: [Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM](http://arxiv.org/abs/1303.3997) by Li
         * GEM: [The GEM mapper: fast, accurate and versatile alignment by filtration](http://www.nature.com/nmeth/journal/v9/n12/abs/nmeth.2221.html) by Marco-Sola et al
+    * Indexing and querying large collections of sequencing reads
+        * Gk-array: [Querying large read collections in main memory: a versatile data structure](http://www.biomedcentral.com/1471-2105/12/242) by Philippe et al
+        * [CRAC: an integrated approach to the analysis of RNA-seq reads](http://genomebiology.com/2013/14/3/R30/abstract) by Philippe et al
+        * [Large-scale compression of genomic sequence databases with the Burrows–Wheeler transform](http://bioinformatics.oxfordjournals.org/content/28/11/1415.short) by Cox et al
 * Compression
     * CRAM: [Efficient storage of high throughput DNA sequencing data using reference-based compression](http://nar.oxfordjournals.org/content/40/22/e171.short) by Hsi-Yang Fritz et al
     * Quip: [Compression of next-generation sequencing reads aided by highly efficient de novo assembly](http://nar.oxfordjournals.org/content/40/22/e171.short) by Jones et al
     * [Adaptive reference-free compression of sequence quality scores](http://arxiv.org/abs/1305.0159) by Janin, Rosone, Cox
+    * [SCALCE: boosting sequence compression algorithms using locally consistent encoding](http://bioinformatics.oxfordjournals.org/content/28/23/3051.full.pdf+html) by Hach et al
+    * [Compression of FASTQ and SAM Format Sequencing Data](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0059190) by Bonfield, Mahoney
 * Sketching and streaming
     * eXpress: [Streaming fragment assembly for real-time analysis of sequencing experiments](http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html) by Roberts, Pachter (also listed above)
     * [Similarity Estimation Techniques from Rounding Algorithms](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDAQFjAA&url=http%3A%2F%2Fwww.cs.princeton.edu%2Fcourses%2Farchive%2Fspring04%2Fcos598B%2Fbib%2FCharikarEstim.pdf&ei=BOfGUsqtEbawsASgyYCADg&usg=AFQjCNGhjQeAdc2rz3unSSih-ipPDVDZtw&bvm=bv.58187178,d.cWc) by Charikar
@@ -74,8 +81,12 @@ If you are taking my class and you have any trouble accessing these resources, p
         * [CloudBurst: highly sensitive read mapping with MapReduce](http://bioinformatics.oxfordjournals.org/content/25/11/1363.short) by Schatz
     * Scalable indexing
         * [Rapid Parallel Genome Indexing with MapReduce](http://dl.acm.org/citation.cfm?id=1996104) by Menon, Bhat, Schatz
+        * [Scalable Parallel Suffix Array Construction](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC4QFjAA&url=http%3A%2F%2Falgo2.iti.kit.edu%2Fsanders%2Fpapers%2FKulSan06a.pdf&ei=AfTGUomiDM6-sQSrpoLIDQ&usg=AFQjCNE6pBfaT2JdMwFmycNK4Xg7fs920A&bvm=bv.58187178,d.cWc) by Kulla and Sanders
+        * [Parallel Suffix Sorting based on Bucket Pointer Refinement](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5716066&tag=1) by Mohamed and Abouelhoda
     * Scalable pipelines
         * [Searching for SNPs with cloud computing](http://genomebiology.com/2009/10/11/R134) by Langmead et al
         * [Cloud-scale RNA-sequencing differential expression analysis with Myrna](http://genomebiology.com/2010/11/8/R83) by Langmead, Hansen, Leek
         * [ADAM: Genomics Formats and Processing Patterns for Cloud Scale Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-207.html) by Massie et al
         * [Fragment assignment in the cloud with eXpress-D](http://www.biomedcentral.com/1471-2105/14/358/abstract) by Roberts, Feng, Pachter (also listed below)
+    * Special-purpose hardware
+        * [SOAP3-dp: Fast, Accurate and Sensitive GPU-Based Short Read Aligner](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCsQFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%253Adoi%252F10.1371%252Fjournal.pone.0065632&ei=IPLGUsWUI-assAThoYGwDQ&usg=AFQjCNH8JYmvHz_U6mIubXvyIG6hUdoB-Q&bvm=bv.58187178,d.cWc) by Luo et al
