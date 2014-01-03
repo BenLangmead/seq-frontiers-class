@@ -1,16 +1,16 @@
 Agenda
 ------
 
-These are the lectures I'll give:
+I'll give in-class lectures covering:
 
-* Brief review of some topics covered in EN 600.439/639.
+* Brief review of some topics covered in [EN 600.439/639](https://github.com/BenLangmead/comp-genomics-class)
 * Introduction to RNA sequencing data analysis
 * Introduction to big-data methods for sequencing data analysis
 * Project ideas
 
-At the end of the semester, we'll have 2 or 3 class sessions dedicated to final project presentations.  That leaves 19-20 class sessions where we're free to discuss either (a) relevant literature, or (b) project progress.
+Maybe each of these will take one class session.  At the end of the semester, we'll have 2 or 3 class sessions dedicated to final project presentations.  I will also try to have a few guest lecturers come.  More on this as I nail down those dates.
 
-That's it!  The rest of the discussion is guided, fueled, and led by you.
+That leaves roughly 16-18 class sessions where we're free to discuss either (a) relevant literature, or (b) project progress.  I am listing relevant literature below.
 
 Readings
 --------
@@ -29,6 +29,7 @@ If you are taking my class and you have any trouble accessing these resources, p
     * [MapSplice: Accurate mapping of RNA-seq reads for splice junction discovery](http://nar.oxfordjournals.org/content/38/18/e178.full.pdf) by Wang et al
     * [TopHat: discovering splice junctions with RNA-seq](http://bioinformatics.oxfordjournals.org/content/25/9/1105.full.html) by Trapnell, Pachter, Salzberg
     * [TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions](http://www.biomedcentral.com/content/pdf/gb-2013-14-4-r36.pdf) by Kim et al
+    * [STAR: ultrafast universal RNA-seq aligner](http://bioinformatics.oxfordjournals.org/content/29/1/15.short) by Dobin et al
 
 * Assembly
     * Cufflinks: [Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation](http://www.nature.com/nbt/journal/v28/n5/full/nbt.1621.html) by Trapnell et al
@@ -47,13 +48,26 @@ If you are taking my class and you have any trouble accessing these resources, p
     * Surveys
         * [Prospects and limitations of full-text index structures in genome analysis](http://nar.oxfordjournals.org/content/40/15/6993) by Vyverman et al
         * [Indexing Methods for Approximate String Matching](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.11.5629&rep=rep1&type=pdf) by Navarro et al
-    * Bowtie
-    * BWA
+    * Types of indexes
+        * Suffix array: [Suffix arrays: a new method for on-line string searches](http://epubs.siam.org/doi/abs/10.1137/0222058) by Manber, Myers
+        * Enhanced suffix array: [Replacing suffix trees with enhanced suffix arrays](http://www.sciencedirect.com/science/article/pii/S1570866703000650) by Abouelhoda, Kurtz, Ohlebusch
+        * FM index: [Opportunistic data structures with applications](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=892127) by Ferragina, Manzini
+    * Sequencing read alignment tools that use the Suffix Array
+        * Segemehl: [Fast Mapping of Short Sequences with Mismatches, Insertions and Deletions Using Index Structures](http://dx.plos.org/10.1371/journal.pcbi.1000502) by Hoffmann et al
+    * Sequencing read alignment tools that use the FM Index
+        * Bowtie: [Ultrafast and memory-efficient alignment of short DNA sequences to the human genome](http://genomebiology.com/2009/10/3/R25) by Langmead et al
+        * Bowtie 2: [Fast gapped-read alignment with Bowtie 2](http://www.nature.com/nmeth/journal/v9/n4/full/nmeth.1923.html) by Langmead, Salzberg
+        * BWA: [Fast and accurate short read alignment with Burrows–Wheeler transform](http://bioinformatics.oxfordjournals.org/content/25/14/1754.short) by Li, Durbin
+        * BWA-SW: [Fast and accurate long-read alignment with Burrows–Wheeler transform](http://bioinformatics.oxfordjournals.org/content/26/5/589.short) by Li, Durbin
+        * BWA-MEM: [Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM](http://arxiv.org/abs/1303.3997) by Li
+        * GEM: [The GEM mapper: fast, accurate and versatile alignment by filtration](http://www.nature.com/nmeth/journal/v9/n12/abs/nmeth.2221.html) by Marco-Sola et al
 * Compression
     * CRAM
     * Quip
 * Sketching and streaming
     * eXpress: [Streaming fragment assembly for real-time analysis of sequencing experiments](http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html) by Roberts, Pachter (also listed above)
+    * [Similarity Estimation Techniques from Rounding Algorithms](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDAQFjAA&url=http%3A%2F%2Fwww.cs.princeton.edu%2Fcourses%2Farchive%2Fspring04%2Fcos598B%2Fbib%2FCharikarEstim.pdf&ei=BOfGUsqtEbawsASgyYCADg&usg=AFQjCNGhjQeAdc2rz3unSSih-ipPDVDZtw&bvm=bv.58187178,d.cWc) by Charikar
+    * [A random-permutations-based approach to fast read alignment](http://www.biomedcentral.com/content/pdf/1471-2105-14-S5-S8.pdf?www.nature.com/doifinder/10.1038/ng.437) by Lederman
 * Scalable computing
     * Scalable alignment
         * [CloudBurst: highly sensitive read mapping with MapReduce](http://bioinformatics.oxfordjournals.org/content/25/11/1363.short) by Schatz
