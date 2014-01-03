@@ -1,3 +1,15 @@
+Agenda
+------
+
+These are the lectures I'll give:
+
+* Brief review of some topics covered in EN 600.439/639.
+* Introduction to RNA sequencing data analysis
+* Introduction to big-data methods for sequencing data analysis
+* Project ideas
+
+That's it!  The rest of the discussion is guided, fueled, and led by you.
+
 Readings
 --------
 
@@ -13,3 +25,30 @@ If you are taking my class and you have any trouble accessing these resources, p
 * Spliced alignment
     * [MapSplice: Accurate mapping of RNA-seq reads for splice junction discovery](http://nar.oxfordjournals.org/content/38/18/e178.full.pdf) by Wang et al
     * [TopHat: discovering splice junctions with RNA-seq](http://bioinformatics.oxfordjournals.org/content/25/9/1105.full.pdf) by Trapnell, Pachter, Salzberg
+
+* Assembly
+    * Cufflinks
+    * CLASS
+    * Dewey
+
+* Scalable methods
+    * Myrna
+
+### Big data methods for sequencing data analysis
+
+* Indexing
+    * NAR review
+    * Navarro review
+    * Bowtie
+    * BWA
+* Compression
+    * CRAM
+    * Quip
+* Sketching and streaming
+    * eXpress
+* Scalable computing
+    * Scalable alignment
+        * CloudBurst
+    * Scalable indexing
+        * Menon et al
+    * Scalable pipelines
