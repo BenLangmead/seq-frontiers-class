@@ -17,10 +17,17 @@ Readings
 
 If you are taking my class and you have any trouble accessing these resources, please contact me. All of these articles should be easily accessible from the JHU campus or via VPN / library proxy.
 
+### Broad surveys
+
+* [Life and its Molecules](http://www.aaai.org/ojs/index.php/aimagazine/article/viewArticle/1744) by Lawrence Hunter
+* [A decade's perspective on DNA sequencing technology](http://www.nature.com/nature/journal/v470/n7333/abs/nature09796.html) by Elaine Mardis
+* [Sequencing technologies -- the next generation](http://www.nature.com/nrg/journal/v11/n1/abs/nrg2626.html) by Michael Metzker
+
 ### RNA sequencing data analysis
 
-* Surveys (everyone should read these -- don't pick one of these to present in class):
+* Surveys
     * [RNA-Seq: a revolutionary tool for transcriptomics](http://www.nature.com/nrg/journal/v10/n1/full/nrg2484.html) by Wang, Gerstein, Snyder
+    * [RNA sequencing: advances, challenges and opportunities](http://www.nature.com/nrg/journal/v12/n2/full/nrg2934.html) by Ozsolak, Milos
     * [Computational methods for transcriptome annotation and quantification using RNA-seq](http://www.nature.com/nmeth/journal/v8/n6/pdf/nmeth.1613.pdf) by Garber, Grabherr, Guttman and Trapnell
     * [From RNA-seq reads to differential expression results](http://www.biomedcentral.com/content/pdf/gb-2010-11-12-220.pdf) by Oshlack, Robinson, Young
 
@@ -83,6 +90,9 @@ If you are taking my class and you have any trouble accessing these resources, p
     * eXpress: [Streaming fragment assembly for real-time analysis of sequencing experiments](http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html) by Roberts, Pachter (also listed above)
     * [Similarity Estimation Techniques from Rounding Algorithms](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDAQFjAA&url=http%3A%2F%2Fwww.cs.princeton.edu%2Fcourses%2Farchive%2Fspring04%2Fcos598B%2Fbib%2FCharikarEstim.pdf&ei=BOfGUsqtEbawsASgyYCADg&usg=AFQjCNGhjQeAdc2rz3unSSih-ipPDVDZtw&bvm=bv.58187178,d.cWc) by Charikar
     * [A random-permutations-based approach to fast read alignment](http://www.biomedcentral.com/content/pdf/1471-2105-14-S5-S8.pdf?www.nature.com/doifinder/10.1038/ng.437) by Lederman
+    * [Efficient counting of k-mers in DNA sequences using a bloom filter](http://www.biomedcentral.com/1471-2105/12/333) by Melsted, Pritchard
+    * [DSK: k-mer counting with very low memory usage](http://bioinformatics.oxfordjournals.org/content/29/5/652.short) by Rizk, Lavenier, Chikhi
+    * [These are not the k-mers you are looking for: efficient online k-mer counting using a probabilistic data structure](http://arxiv.org/abs/1309.2975) by Zhang et al
 
 * Scalable computing
 
