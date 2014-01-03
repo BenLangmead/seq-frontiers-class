@@ -8,6 +8,8 @@ These are the lectures I'll give:
 * Introduction to big-data methods for sequencing data analysis
 * Project ideas
 
+At the end of the semester, we'll have 2 or 3 class sessions dedicated to final project presentations.  That leaves 19-20 class sessions where we're free to discuss either (a) relevant literature, or (b) project progress.
+
 That's it!  The rest of the discussion is guided, fueled, and led by you.
 
 Readings
@@ -23,16 +25,19 @@ If you are taking my class and you have any trouble accessing these resources, p
     * [From RNA-seq reads to differential expression results](http://www.biomedcentral.com/content/pdf/gb-2010-11-12-220.pdf) by Oshlack, Robinson, Young
 
 * Spliced alignment
+    * QPALMA: [Optimal spliced alignments of short sequence reads](http://bioinformatics.oxfordjournals.org/content/24/16/i174.full.html) by De Bona et al
     * [MapSplice: Accurate mapping of RNA-seq reads for splice junction discovery](http://nar.oxfordjournals.org/content/38/18/e178.full.pdf) by Wang et al
-    * [TopHat: discovering splice junctions with RNA-seq](http://bioinformatics.oxfordjournals.org/content/25/9/1105.full.pdf) by Trapnell, Pachter, Salzberg
+    * [TopHat: discovering splice junctions with RNA-seq](http://bioinformatics.oxfordjournals.org/content/25/9/1105.full.html) by Trapnell, Pachter, Salzberg
+    * [TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions](http://www.biomedcentral.com/content/pdf/gb-2013-14-4-r36.pdf) by Kim et al
 
 * Assembly
-    * Cufflinks
-    * CLASS
-    * Dewey
+    * Cufflinks: [Transcript assembly and quantification by RNA-Seq reveals unannotated transcripts and isoform switching during cell differentiation](http://www.nature.com/nbt/journal/v28/n5/full/nbt.1621.html) by Trapnell et al
+    * CLASS: [CLASS: constrained transcript assembly of RNA-seq reads](http://www.biomedcentral.com/1471-2105/14/S5/S14?utm_source=dlvr.it&utm_medium=tumblr) by Song, Florea
+    * Trinity: [Full-length transcriptome assembly from RNA-Seq data without a reference genome](http://www.nature.com/nbt/journal/v29/n7/full/nbt.1883.html) by Grabherr et al
+    * PSGInfer: [Inference of alternative splicing from RNA-Seq data with probabilistic splice graphs](http://bioinformatics.oxfordjournals.org/content/29/18/2300.full.html) by LeGault, Dewey
 
 * Scalable methods
-    * Myrna
+    * eXpress: [Streaming fragment assembly for real-time analysis of sequencing experiments](http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html) by Roberts, Pachter
 
 ### Big data methods for sequencing data analysis
 
