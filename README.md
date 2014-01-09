@@ -108,7 +108,7 @@ If you are taking my class and you have any trouble accessing these resources, p
         * [Searching for SNPs with cloud computing](http://genomebiology.com/2009/10/11/R134) by Langmead et al
         * [Cloud-scale RNA-sequencing differential expression analysis with Myrna](http://genomebiology.com/2010/11/8/R83) by Langmead, Hansen, Leek
         * [ADAM: Genomics Formats and Processing Patterns for Cloud Scale Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-207.html) by Massie et al
-        * [Fragment assignment in the cloud with eXpress-D](http://www.biomedcentral.com/1471-2105/14/358/abstract) by Roberts, Feng, Pachter (also listed below)
+        * [Fragment assignment in the cloud with eXpress-D](http://www.biomedcentral.com/1471-2105/14/358/abstract) by Roberts, Feng, Pachter (also listed above)
         * [WiggleTools: parallel processing of large collections of genome-wide datasets for visualization and statistical analysis](http://bioinformatics.oxfordjournals.org/content/early/2014/01/07/bioinformatics.btt737.full.pdf) by Zerbino et al
 
     * Special-purpose hardware
