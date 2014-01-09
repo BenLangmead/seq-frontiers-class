@@ -8,9 +8,9 @@ I'll give in-class lectures covering:
 * Introduction to big-data methods for sequencing data analysis
 * Project ideas
 
-Maybe each of these will take one class session.  At the end of the semester, we'll have 2 or 3 class sessions dedicated to final project presentations.  I will also try to have a few guest lecturers come.  More on this as I nail down those dates.
+At the end of the semester, we'll have 2 or 3 class sessions dedicated to final project presentations.  I will also try to have a few guest lecturers come.  More on this as I nail down those dates.
 
-That leaves roughly 16-18 class sessions where we're free to discuss either (a) relevant literature, or (b) project progress.  I am listing relevant literature below.
+In most class sessions, we'll discuss literature.  A student will be selected ahead of time to present in each class, and the student will select and announce 2 or 3 papers for discussion.  The student will then lead a 75-minutes discussion of those papers in class.  This will usually include a presentation of the main ideas and results of the paper.  Everyone is encouraged to participate in every discussion.  Participation is an important part of your grade.
 
 Readings
 --------
