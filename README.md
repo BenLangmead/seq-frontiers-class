@@ -15,7 +15,7 @@ That leaves roughly 16-18 class sessions where we're free to discuss either (a) 
 Readings
 --------
 
-If you are taking my class and you have any trouble accessing these resources, please contact me. All of these articles should be easily accessible from the JHU campus or via VPN / library proxy.
+If you are taking my class and you have any trouble accessing these resources, please contact me. All of these articles should be easily accessible from the JHU campus or via [VPN](http://portalcontent.johnshopkins.edu/sslvpn/JHConnect-FAQ.html) / [library proxy](http://old.library.jhu.edu/services/computing/proxyfaqs.html).
 
 ### Broad surveys
 
