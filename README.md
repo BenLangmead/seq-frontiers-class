@@ -104,11 +104,12 @@ If you are taking my class and you have any trouble accessing these resources, p
         * [Scalable Parallel Suffix Array Construction](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CC4QFjAA&url=http%3A%2F%2Falgo2.iti.kit.edu%2Fsanders%2Fpapers%2FKulSan06a.pdf&ei=AfTGUomiDM6-sQSrpoLIDQ&usg=AFQjCNE6pBfaT2JdMwFmycNK4Xg7fs920A&bvm=bv.58187178,d.cWc) by Kulla and Sanders
         * [Parallel Suffix Sorting based on Bucket Pointer Refinement](http://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5716066&tag=1) by Mohamed and Abouelhoda
 
-    * Scalable pipelines
+    * Other scalable tools
         * [Searching for SNPs with cloud computing](http://genomebiology.com/2009/10/11/R134) by Langmead et al
         * [Cloud-scale RNA-sequencing differential expression analysis with Myrna](http://genomebiology.com/2010/11/8/R83) by Langmead, Hansen, Leek
         * [ADAM: Genomics Formats and Processing Patterns for Cloud Scale Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-207.html) by Massie et al
         * [Fragment assignment in the cloud with eXpress-D](http://www.biomedcentral.com/1471-2105/14/358/abstract) by Roberts, Feng, Pachter (also listed below)
+        * [WiggleTools: parallel processing of large collections of genome-wide datasets for visualization and statistical analysis](http://bioinformatics.oxfordjournals.org/content/early/2014/01/07/bioinformatics.btt737.full.pdf) by Zerbino et al
 
     * Special-purpose hardware
         * [SOAP3-dp: Fast, Accurate and Sensitive GPU-Based Short Read Aligner](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCsQFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%253Adoi%252F10.1371%252Fjournal.pone.0065632&ei=IPLGUsWUI-assAThoYGwDQ&usg=AFQjCNH8JYmvHz_U6mIubXvyIG6hUdoB-Q&bvm=bv.58187178,d.cWc) by Luo et al
