@@ -49,6 +49,10 @@ If you are taking my class and you have any trouble accessing these resources, p
     * [Fragment assignment in the cloud with eXpress-D](http://www.biomedcentral.com/1471-2105/14/358/abstract) by Roberts, Feng, Pachter (also listed below)
     * [Sailfish: Alignment-free Isoform Quantification from RNA-seq Reads using Lightweight Algorithms](http://arxiv.org/abs/1308.3700) by Patro, Mount, Kingsford
 
+* Comparisons
+    * [Systematic evaluation of spliced alignment programs for RNA-seq data](http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2722.html) by Engstrom et al
+    * [Assessment of transcript reconstruction methods for RNA-seq](http://www.nature.com/nmeth/journal/v10/n12/full/nmeth.2714.html) by Steijger et al
+
 ### Big data methods for sequencing data analysis
 
 * Indexing
