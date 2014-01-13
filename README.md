@@ -91,6 +91,8 @@ If you are taking my class and you have any trouble accessing these resources, p
     * [Compression of FASTQ and SAM Format Sequencing Data](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0059190) by Bonfield, Mahoney
 
 * Sketching and streaming
+    * Background
+        * Streaming, Sketching and Sufficient Statistics [part 1](http://www.youtube.com/watch?v=-QSkMcPmXN8), [part 2](http://www.youtube.com/watch?v=twdbZI0lk94) by Cormode
     * eXpress: [Streaming fragment assembly for real-time analysis of sequencing experiments](http://www.nature.com/nmeth/journal/v10/n1/full/nmeth.2251.html) by Roberts, Pachter (also listed above)
     * [Similarity Estimation Techniques from Rounding Algorithms](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CDAQFjAA&url=http%3A%2F%2Fwww.cs.princeton.edu%2Fcourses%2Farchive%2Fspring04%2Fcos598B%2Fbib%2FCharikarEstim.pdf&ei=BOfGUsqtEbawsASgyYCADg&usg=AFQjCNGhjQeAdc2rz3unSSih-ipPDVDZtw&bvm=bv.58187178,d.cWc) by Charikar
     * [A random-permutations-based approach to fast read alignment](http://www.biomedcentral.com/content/pdf/1471-2105-14-S5-S8.pdf?www.nature.com/doifinder/10.1038/ng.437) by Lederman
