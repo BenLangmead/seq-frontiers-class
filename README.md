@@ -21,7 +21,8 @@ If you are taking my class and you have any trouble accessing these resources, p
 
 * [Life and its Molecules](http://www.aaai.org/ojs/index.php/aimagazine/article/viewArticle/1744) by Lawrence Hunter
 * [A decade's perspective on DNA sequencing technology](http://www.nature.com/nature/journal/v470/n7333/abs/nature09796.html) by Elaine Mardis
-* [Sequencing technologies -- the next generation](http://www.nature.com/nrg/journal/v11/n1/abs/nrg2626.html) by Michael Metzker
+* [Sequencing technologies -- the next generation](http://www.nature.com/nrg/journal/v11/n1/abs/nrg2626.html) by MichaelMetzker
+* [The DNA Data Deluge](http://spectrum.ieee.org/biomedical/devices/the-dna-data-deluge) by Schatz, Langmead
 
 ### RNA sequencing data analysis
 
