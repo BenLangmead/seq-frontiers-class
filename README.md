@@ -90,6 +90,7 @@ If you are taking my class and you have any trouble accessing these resources, p
     * [Adaptive reference-free compression of sequence quality scores](http://arxiv.org/abs/1305.0159) by Janin, Rosone, Cox
     * [SCALCE: boosting sequence compression algorithms using locally consistent encoding](http://bioinformatics.oxfordjournals.org/content/28/23/3051.full.pdf+html) by Hach et al
     * [Compression of FASTQ and SAM Format Sequencing Data](http://www.plosone.org/article/info%3Adoi%2F10.1371%2Fjournal.pone.0059190) by Bonfield, Mahoney
+    * [QualComp: a new lossy compressor for quality scores based on rate distortion theory](http://www.biomedcentral.com/1471-2105/14/187) by Ochoa et al
 
 * Sketching and streaming
     * Background
