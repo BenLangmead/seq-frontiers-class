@@ -119,10 +119,10 @@ If you are taking my class and you have any trouble accessing these resources, p
         * [Fragment assignment in the cloud with eXpress-D](http://www.biomedcentral.com/1471-2105/14/358/abstract) by Roberts, Feng, Pachter (also listed above)
         * [WiggleTools: parallel processing of large collections of genome-wide datasets for visualization and statistical analysis](http://bioinformatics.oxfordjournals.org/content/early/2014/01/07/bioinformatics.btt737.full.pdf) by Zerbino et al
    
-Project resources     
+Project resources
 -----------------
 
-See the [EN 600.439/639] page for many resources relevant to your final project, including:
+See the [EN 600.439/639](https://github.com/BenLangmead/comp-genomics-class) page for many resources relevant to your final project, including:
 
 * iPython [notebooks describing genomics file formats](https://github.com/BenLangmead/comp-genomics-class/blob/master/README.md#file-format-notebooks) and how to parse them in Python
 * iPython [notebooks demonstrating algorithms and data structures](https://github.com/BenLangmead/comp-genomics-class/blob/master/README.md#concept-notebooks) used in genomics
