@@ -1,16 +1,16 @@
-Agenda
-------
+Class sessions
+--------------
 
-I'll give in-class lectures covering:
+At the beginning of class, I'll give some informal lectures covering:
 
 * Brief review of some topics covered in [EN 600.439/639](https://github.com/BenLangmead/comp-genomics-class)
 * Introduction to RNA sequencing data analysis
 * Introduction to big-data methods for sequencing data analysis
 * Project ideas
 
-At the end of the semester, we'll have 2 or 3 class sessions dedicated to final project presentations.  I will also try to have a few guest lecturers come.  More on this as I nail down those dates.
+You'll give a work-in-progress presentation on your final project sometime around spring break.  You'll give a final project presentation at the end of the semester.  A couple guest lectures are likely as well.
 
-In most class sessions, we'll discuss literature.  A student will be selected ahead of time to present in each class, and the student will select and announce 2 or 3 papers for discussion.  The student will then lead a 75-minutes discussion of those papers in class.  This will usually include a presentation of the main ideas and results of the paper.  Everyone is encouraged to participate in every discussion.  Participation is an important part of your grade.
+Otherwise, class sessions will be devoted to discussing literature.  A student will be selected ahead of time to present in each class, and the student will select and announce 1 or 2 papers for discussion.  The student will then lead a 60-to-75-minute discussion of those papers in class.  The student should present the main ideas and results of the paper using some combination of slides, chalkboard, and demonstrations.  Everyone is encouraged to participate in every discussion; participation is an important part of your grade.
 
 Readings
 --------
@@ -118,6 +118,14 @@ If you are taking my class and you have any trouble accessing these resources, p
         * [ADAM: Genomics Formats and Processing Patterns for Cloud Scale Computing](http://www.eecs.berkeley.edu/Pubs/TechRpts/2013/EECS-2013-207.html) by Massie et al
         * [Fragment assignment in the cloud with eXpress-D](http://www.biomedcentral.com/1471-2105/14/358/abstract) by Roberts, Feng, Pachter (also listed above)
         * [WiggleTools: parallel processing of large collections of genome-wide datasets for visualization and statistical analysis](http://bioinformatics.oxfordjournals.org/content/early/2014/01/07/bioinformatics.btt737.full.pdf) by Zerbino et al
+   
+Project resources     
+-----------------
 
-    * Special-purpose hardware
-        * [SOAP3-dp: Fast, Accurate and Sensitive GPU-Based Short Read Aligner](http://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&ved=0CCsQFjAA&url=http%3A%2F%2Fwww.plosone.org%2Farticle%2Finfo%253Adoi%252F10.1371%252Fjournal.pone.0065632&ei=IPLGUsWUI-assAThoYGwDQ&usg=AFQjCNH8JYmvHz_U6mIubXvyIG6hUdoB-Q&bvm=bv.58187178,d.cWc) by Luo et al
+See the [EN 600.439/639] page for many resources relevant to your final project, including:
+
+* iPython [notebooks describing genomics file formats](https://github.com/BenLangmead/comp-genomics-class/blob/master/README.md#file-format-notebooks) and how to parse them in Python
+* iPython [notebooks demonstrating algorithms and data structures](https://github.com/BenLangmead/comp-genomics-class/blob/master/README.md#concept-notebooks) used in genomics
+* [Other resources for that class](https://github.com/BenLangmead/comp-genomics-class/blob/master/README.md#file-format-notebooks), including readings, videos, review materials
+
+I've also started to post some [relevant lecture notes](http://www.langmead-lab.org/teaching-materials/) on my lab website.
