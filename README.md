@@ -100,6 +100,7 @@ If you are taking my class and you have any trouble accessing these resources, p
     * [A random-permutations-based approach to fast read alignment](http://www.biomedcentral.com/content/pdf/1471-2105-14-S5-S8.pdf?www.nature.com/doifinder/10.1038/ng.437) by Lederman
     * [Efficient counting of k-mers in DNA sequences using a bloom filter](http://www.biomedcentral.com/1471-2105/12/333) by Melsted, Pritchard
     * [DSK: k-mer counting with very low memory usage](http://bioinformatics.oxfordjournals.org/content/29/5/652.short) by Rizk, Lavenier, Chikhi
+    * [Oculus: faster sequence alignment by streaming read compression](http://www.biomedcentral.com/1471-2105/13/297) by Veeneman, Iyer, Chinnaiyan
     * [These are not the k-mers you are looking for: efficient online k-mer counting using a probabilistic data structure](http://arxiv.org/abs/1309.2975) by Zhang et al
 
 * Scalable computing
