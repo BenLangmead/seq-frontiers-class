@@ -1,9 +1,9 @@
 Class sessions
 --------------
 
-At the beginning of class, I'll give some informal lectures covering:
+At the beginning of class, I will lead some informal discussions covering:
 
-* Brief review of some topics covered in [EN 600.439/639](https://github.com/BenLangmead/comp-genomics-class)
+* Introduction to geonmics, computational genomics, and DNA sequencing
 * Introduction to RNA sequencing data analysis
 * Introduction to big-data methods for sequencing data analysis
 * Project ideas
