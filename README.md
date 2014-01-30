@@ -79,10 +79,12 @@ If you are taking my class and you have any trouble accessing these resources, p
         * BWA-MEM: [Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM](http://arxiv.org/abs/1303.3997) by Li
         * GEM: [The GEM mapper: fast, accurate and versatile alignment by filtration](http://www.nature.com/nmeth/journal/v9/n12/abs/nmeth.2221.html) by Marco-Sola et al
 
-    * Indexing and querying large collections of sequencing reads
+    * Indexing and querying large collections of sequencing reads using a suffix array and/or FM Index
         * Gk-array: [Querying large read collections in main memory: a versatile data structure](http://www.biomedcentral.com/1471-2105/12/242) by Philippe et al
         * [CRAC: an integrated approach to the analysis of RNA-seq reads](http://genomebiology.com/2013/14/3/R30/abstract) by Philippe et al
         * [Large-scale compression of genomic sequence databases with the Burrows–Wheeler transform](http://bioinformatics.oxfordjournals.org/content/28/11/1415.short) by Cox et al
+        * [GPU-Accelerated BWT Construction for Large Collection of Short Reads](http://arxiv.org/pdf/1401.7457v1.pdf) by Liu, Luo, Lam
+        * [ropeBWT2](https://github.com/lh3/ropebwt2) by Li (no paper, just a GitHub repo with a README)
 
 * Compression
     * CRAM: [Efficient storage of high throughput DNA sequencing data using reference-based compression](http://nar.oxfordjournals.org/content/40/22/e171.short) by Hsi-Yang Fritz et al
