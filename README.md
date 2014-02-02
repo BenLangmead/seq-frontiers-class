@@ -87,7 +87,7 @@ If you are taking my class and you have any trouble accessing these resources, p
         * [ropeBWT2](https://github.com/lh3/ropebwt2) by Li (no paper, just a GitHub repo with a README)
 
 * Compression
-    * CRAM: [Efficient storage of high throughput DNA sequencing data using reference-based compression](http://nar.oxfordjournals.org/content/40/22/e171.short) by Hsi-Yang Fritz et al
+    * CRAM: [Efficient storage of high throughput DNA sequencing data using reference-based compression](http://genome.cshlp.org/content/21/5/734.long) by Hsi-Yang Fritz et al
     * Quip: [Compression of next-generation sequencing reads aided by highly efficient de novo assembly](http://nar.oxfordjournals.org/content/40/22/e171.short) by Jones et al
     * [Adaptive reference-free compression of sequence quality scores](http://arxiv.org/abs/1305.0159) by Janin, Rosone, Cox
     * [SCALCE: boosting sequence compression algorithms using locally consistent encoding](http://bioinformatics.oxfordjournals.org/content/28/23/3051.full.pdf+html) by Hach et al
