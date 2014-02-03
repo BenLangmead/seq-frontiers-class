@@ -108,6 +108,12 @@ If you are taking my class and you have any trouble accessing these resources, p
 
 * Scalable computing
 
+    * Frameworks
+        * [MapReduce: simplified data processing on large clusters](http://dl.acm.org/citation.cfm?id=1327492) by Dean and Ghemawat
+        * Spark:
+            * [Resilient distributed datasets: A fault-tolerant abstraction for in-memory cluster computing](https://www.usenix.org/system/files/conference/nsdi12/nsdi12-final138.pdf) by Zaharia et al
+            * [Spark: cluster computing with working sets](http://www.usenix.org/event/hotcloud10/tech/full_papers/Zaharia.pdf) by Zaharia et al
+
     * Scalable alignment
         * [CloudBurst: highly sensitive read mapping with MapReduce](http://bioinformatics.oxfordjournals.org/content/25/11/1363.short) by Schatz
 
