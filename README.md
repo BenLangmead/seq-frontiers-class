@@ -61,6 +61,7 @@ If you are taking my class and you have any trouble accessing these resources, p
     * Surveys
         * [Prospects and limitations of full-text index structures in genome analysis](http://nar.oxfordjournals.org/content/40/15/6993) by Vyverman et al
         * [Indexing Methods for Approximate String Matching](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.11.5629&rep=rep1&type=pdf) by Navarro et al
+        * [Introduction to the Burrows-Wheeler Transform and FM Index](http://www.cs.jhu.edu/~langmea/resources/bwt_fm.pdf) by Langmead
 
     * Types of indexes
         * Suffix array: [Suffix arrays: a new method for on-line string searches](http://epubs.siam.org/doi/abs/10.1137/0222058) by Manber, Myers
